@@ -3,12 +3,13 @@
 ## Overview
 This repository contains a machine translation project focused on converting English text to Hindi. The project is fine-tuned on the MarianMT transformer and leverages a dataset available at [HindiEnglish Corpora](https://www.kaggle.com/datasets/aiswaryaramachandran/hindienglish-corpora).
 ## Dataset Summary
-
+![Screenshot 2024-02-02 154700](https://github.com/Rashid0125/Machine-Translation/assets/102589680/0fe85eb8-aa69-4739-b1de-9c9bac6ca3ab)
 
 ## Requirements
 * Python 3.8 and above 
 * PyTorch
 * Hugging Face Transformers
+
 * Other dependencies as listed in requirements.txt
 
 
