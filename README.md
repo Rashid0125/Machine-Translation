@@ -37,6 +37,8 @@ python test.py --input_text "Your English text goes here"
 ```
 This will output the translated text in Hindi.
 
+[HuggingFace Inference API](https://huggingface.co/rashid996958/Machine_translation_5-10_epochs)
+
 ## Model Fine-Tuning
 Details about fine-tuning the MarianMT transformer on the specific dataset can be found in the fine-tuning.ipynb notebook.
 
